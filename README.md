@@ -7,4 +7,6 @@ This is a project for the cafeteria in my college. Objectives in the project is 
 allow a user, a better efficiency. Indeed, the user acces has a rendering of the money detailed of all parts, access total numbers of operations days, and has stocks management. 
 
 
+#### Caution, the project is in development. It is not functional for now. 
+
 
